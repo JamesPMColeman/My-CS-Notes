@@ -1,5 +1,6 @@
 # Notes on "How to Give a Great Agile/Scrum Sprint Demo"
 ## From Acquia Developers
+##### By Dane Powell 08.09.2018
 ###### https://dev.acquia.com/blog/how-to-give-a-great-agilescrum-sprint-demo/09/08/2018/19771
 
 #### Purpose
