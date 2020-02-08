@@ -1,8 +1,8 @@
-# Notes on "How to Give a Great Agile/Scrum Sprint Demo
+# Notes on "How to Give a Great Agile/Scrum Sprint Demo"
 ## From Acquia Developers
 ###### https://dev.acquia.com/blog/how-to-give-a-great-agilescrum-sprint-demo/09/08/2018/19771
 
-#### Perpose
+#### Purpose
 To learn how to give a great demo presentation
 
 #### Context
@@ -14,7 +14,7 @@ My first demo presentation is in a couple days
 	* Who will be in the room
 	* Topics words and phrases to focus on
 	* Topics words and phrases to avoid
-	* All completed stroies
+	* All completed stories
 	* Weed out stories that shouldn't be demoed
 	* Organize stories into scenarios or topics
 	* What devs will speak and when
@@ -25,21 +25,21 @@ My first demo presentation is in a couple days
 * Know your audience
 	* Your language should be specific to who is listening
 	* Explain Jargon when necessary
-	* Tell stakeholders what they want to hear not what they dont
+	* Tell stakeholders what they want to hear not what they don't
 
 * Come up with content
 	* List all completed work for the sprint
-	* Group tasks logicly
+	* Group tasks logically
 	* Drop stories that wont demo well
 	* Some non-user story content
 		* Governance
 		* Testing process
-		* Anthing that shows the value of the project
+		* Anything that shows the value of the project
 
 * Tell a story
 	* Enumerating completed user stories is boring
 	* Try to excite the stakeholders
-	* Be naritive
+	* Be narrative
 	* Be brief and to the point
 	* Sprint goals over individual tickets
 	* Group like topics
@@ -60,8 +60,8 @@ My first demo presentation is in a couple days
 	* What is to come next time
 
 
-* Practice (Practice makes permenent, perfect practice make perfect)
-	* Run throught the demo by yourself
+* Practice (Practice makes permanent, perfect practice make perfect)
+	* Run through the demo by yourself
 	* Checklist for content (part of the outline)
 	* Run through with a small team
 	* Run through with product owner or trusted stakeholder
