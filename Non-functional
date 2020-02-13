@@ -2,7 +2,7 @@
 
 #### Analysis
 * Static 
-	- Everything prerun
+	- Everything pre-run
 	- PyLint Sonar Cloud radon, Checkstyle
 	- Linters, Cyclomatic complexity method length
 * Dynamic 
@@ -16,7 +16,7 @@
 	- CPUs are fast, they are not slowing us down
 		* if we scale .3 ns to a second (don't invest in cpu speed, DRAM is more valuable)
 			> level 3 catch 43s
-			> mainmemory 6 m in
+			> main memory 6 m in
 			> SSD 2 - 6 days
 			> network San Fran to UK 8 years
 			> Physical system reboot 32 millennia
@@ -30,9 +30,9 @@
 		* most important
 		* TDD!!!!
 		* if you cant test you can't code
-		* THis will put you in the right frame of mind
+		* This will put you in the right frame of mind
 	- Integration: class
-	_ Stsytem - test the whole thing
+	_ System - test the whole thing
 * Implementation
 	- SE tends to focus on requirements, design, and processes
 ###### Guideline 
@@ -40,21 +40,21 @@
 		- Follow language styles 
 			> The Elements of Java Style - Scott Ambler and Trevor Misfeldt
 			> (Get your self a style guide)
-	* Nameing
+	* Naming
 		- Use good descriptive names 
 			> What they do not what type they are
 	* Tests
 	* Use Libraries
-		- Write stuff that has already been writen
+		- Write stuff that has already been written
 		- comment where you find it
 		- sight in read me
-		- Are you alowed to take it?
+		- Are you allowed to take it?
 			> is it public domain
 	* Reviews
 		- Always do retrospective
 		- Others know things you don't 
 		- Everything builds on everything else
-	* Donot repeat yourself
+	* Do not repeat yourself
 	* Others
 
 ### Agile
@@ -69,16 +69,16 @@
 	* Informal communication
 	* change
 		- Users change their minds and thats a good thing
-##### WHy agile
+##### Why agile
 	* lengthy development times can feel shorter
 	* better product
 	* more predictable product
-	* All requirements are not known at the begining
+	* All requirements are not known at the beginning
 	* it cuts down the 'heroic effort'
 	* insists on 40 hour works
 	* Processes too complex
 		- RUP: 100 Tasks and 30 roles
-	* Too much wate and duplication 
+	* Too much waste and duplication 
 	* Now: Source code is the truth 
 		- Code and test are your design
 ##### Agile Promises
@@ -89,33 +89,30 @@
 	* Interpersonal stuff
 ###### What to do 
 	* Process is not the answer to good software
-	* proccess can cause more problems than it solves
-###### Agile Manifesto
-	* We are uncover better ways of deve software by doing it and helping others do it. thorough this wpork we have come to value
-	* Individuals and interactions over processes and tools 
-	* Working software over comprehensive documentation
-	* Customer colab over contact negotiation
-	* Responding to change over following a plan
-####### Individuals and interactions over Process and tools
+	* process can cause more problems than it solves
+#### Agile Manifesto
+	* We are uncover better ways of development software by doing it and helping others do it. thorough this work we have come to value
+	
+####### Individuals and interactions over processes and tools 
 	* Good process wont fix bad team members
 	* bad process will hinder good team members	
 	* Everyone must work together to succeed
 	* Strong team members not necessarily strongest programmer, designer, etc.
 		- communication and inter action
 	* Start small with tools !!!!!!!
-	* Dont create the enviroment first
+	* Don't create the environment first
 		- some IDEs are better for different situations
 	* Create the  and then let them create the environment
-###### Working Software over comprehensive Doc
+###### Working software over comprehensive documentation
 	* cant have doc with out program
 	* Need to describe system and document design decisions
-	* Large amounts of doco can become cumbersone and of sync
+	* Large amounts of documentation can become cumbersome and of sync
 	* Knowledge transferred in the team bu direct interaction
 	* Produce no document unless its need is immediate and significant!
-####### Customer collaboration over contract negotiation
+####### Customer collaboration over contact negotiation
 	* Successful projects get customer feedback early and often 
 	* Best contracts specify how team and customers interact
-####### Respond to chage over follow a plan
+####### Responding to change over following a plan
 	* Things changes
 	* Team and customer gains knowledge about solution 
 	*  detailed plans for next two weeks, rough plans for three months crude after that
