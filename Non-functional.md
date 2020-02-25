@@ -93,7 +93,7 @@
 #### Agile Manifesto
 	* We are uncover better ways of development software by doing it and helping others do it. thorough this work we have come to value
 	
-####### Individuals and interactions over processes and tools 
+###### Individuals and interactions over processes and tools 
 	* Good process wont fix bad team members
 	* bad process will hinder good team members	
 	* Everyone must work together to succeed
@@ -109,10 +109,10 @@
 	* Large amounts of documentation can become cumbersome and of sync
 	* Knowledge transferred in the team bu direct interaction
 	* Produce no document unless its need is immediate and significant!
-####### Customer collaboration over contact negotiation
+###### Customer collaboration over contact negotiation
 	* Successful projects get customer feedback early and often 
 	* Best contracts specify how team and customers interact
-####### Responding to change over following a plan
+###### Responding to change over following a plan
 	* Things changes
 	* Team and customer gains knowledge about solution 
 	*  detailed plans for next two weeks, rough plans for three months crude after that
