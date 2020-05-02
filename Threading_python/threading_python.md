@@ -4,10 +4,12 @@
 ### from Real Python 
 ### https://realpython.com/intro-to-python-threading/
 
--------------------------------------------------------------------------
+-----------------------------------------------------------------------
+
 ##### This article is accompanied by a video tutorial and a quiz
 
--------------------------------------------------------------------------
+-----------------------------------------------------------------------
+
 #### What is a thread?
 
 	* Threads make use of processors multiple cores
